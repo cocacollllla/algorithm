@@ -10,6 +10,3 @@ if(min < 45){
 }else{
     console.log(hour, min-=45);
 }
-
-
-
