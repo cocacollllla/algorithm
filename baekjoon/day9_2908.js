@@ -1,4 +1,4 @@
-https://www.acmicpc.net/problem/2908
+// https://www.acmicpc.net/problem/2908
 
 const input = require('fs').readFileSync('text.txt').toString().split(' ');
 
